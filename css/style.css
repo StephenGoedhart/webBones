@@ -1,0 +1,60 @@
+/* Default phone size */
+.cs0{ display:none;}
+.cs1{ width:6.25%; }
+.cs2{ width:12.5%; }
+.cs3{ width:18.75%; }
+.cs4{ width:25%; }
+.cs5{ width:31.25%; }
+.cs6{ width:37.5%; }
+.cs7{ width:43.75%; }
+.cs8{ width:50.0%; }
+.cs9{ width:56.52%; }
+.cs10{ width:62.5%; }
+.cs11{ width:68.75%; }
+.cs12{ width:75%; }
+.cs13{ width:81.25%; }
+.cs14{ width:87.5%; }
+.cs15{ width:16.6%; }
+.cs16{ width:93.75%; }
+
+/*tablet size */
+@media only screen and (min-width : 768px) {
+    .cm0{ display:none;}
+    .cm1{ width:6.25%; }
+    .cm2{ width:12.5%; }
+    .cm3{ width:18.75%; }
+    .cm4{ width:25%; }
+    .cm5{ width:31.25%; }
+    .cm6{ width:37.5%; }
+    .cm7{ width:43.75%; }
+    .cm8{ width:50.0%; }
+    .cm9{ width:56.52%; }
+    .cm10{ width:62.5%; }
+    .cm11{ width:68.75%; }
+    .cm12{ width:75%; }
+    .cm13{ width:81.25%; }
+    .cm14{ width:87.5%; }
+    .cm15{ width:16.6%; }
+    .cm16{ width:93.75%; }
+  }
+
+  /* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+   .cb0{ display:none;}
+   .cb1{ width:6.25%; }
+   .cb2{ width:12.5%; }
+   .cb3{ width:18.75%; }
+   .cb4{ width:25%; }
+   .cb5{ width:31.25%; }
+   .cb6{ width:37.5%; }
+   .cb7{ width:43.75%; }
+   .cb8{ width:50.0%; }
+   .cb9{ width:56.52%; }
+   .cb10{ width:62.5%; }
+   .cb11{ width:68.75%; }
+   .cb12{ width:75%; }
+   .cb13{ width:81.25%; }
+   .cb14{ width:87.5%; }
+   .cb15{ width:16.6%; }
+   .cb16{ width:93.75%; }
+  }
